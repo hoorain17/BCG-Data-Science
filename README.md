@@ -110,3 +110,12 @@ A few things to think about for this abstract include:
 * What impact would the model have on the client’s bottom line?
 
 Please note, there are multiple ways to approach the task and that the sample answer is just one way to do it.
+
+
+
+### Contact
+For any queries or collaborations, feel free to contact:
+
+- Email: [Hoorain Mahtab](nasreen88881l@example.com)
+- LinkedIn: [Hoorain Mahtab](https://www.linkedin.com/in/hoorainmahtab/)
+
